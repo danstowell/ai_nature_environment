@@ -44,12 +44,12 @@ Lecture topics:
 3. Seeing from above: Remote sensing
 4. Deep learning for audio
 5. Citizen science
-6. Electricity generation/grids. And: Cost-benefit & critiques -- [Lecture 6 slides 2023](LINK)
+6. Electricity generation/grids. And: Cost-benefit & critiques -- [Lecture 6 slides 2023](slides/ai4ne_6_electricity_costbenefit.pdf)
 7. Devices in the wild    
    --mid-term--
 8. Tracking movement: Biologging
 9. Data mining, large-scale, data-viz
-10. Bad tech, versus nature-based solutions  -- [Lecture 10 slides 2023](LINK)
+10. Bad tech, versus nature-based solutions
 11. Estimating animal populations
 12. Advanced topics 1
 13. Advanced topics 2

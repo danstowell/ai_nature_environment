@@ -7,6 +7,10 @@ Course material (2023 edition) -- undergraduate 3rd year, BSc Cognitive Science 
 
 *Instruction language:* English
 
+Taught in the [Department of Cognitive Science and AI](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at Tilburg University.
+
+<img src="TilbUni_H_logo_slogan_COLOR.png" style="float:right; max-width: 33%; width: 358px;"/>
+
 Aims:
 -----
 

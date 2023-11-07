@@ -1,15 +1,13 @@
 AI for Nature & Environment
 ===========================
 
-Course material (2023 edition) -- undergraduate 3rd year, BSc Cognitive Science and AI
+Course material (2023 edition)
 
 *Target level:* BSc 3rd year (BSc Cognitive Science and AI)
 
-*Instruction language:* English
-
 Taught in the [Department of Cognitive Science and AI](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at Tilburg University.
 
-<img src="TilbUni_H_logo_slogan_COLOR.png" style="float:right; max-width: 33%; width: 358px;"/>
+<img src="TilbUni_H_logo_slogan_COLOR.png" style="float:right; max-width: 358px; width: 25%;"/>
 
 Aims:
 -----
@@ -28,18 +26,6 @@ Content:
 
 This course focusses on a diverse set of applications of tech for nature, in each case studying how data science and AI methodologies can be used. We also encourage a critical and comparative approach, by looking at the impacts as well as the benefits of tech for nature, and considering machine learning good practices. The course assumes some familiarity with programming (Python) and with AI concepts, and explores the topics through computer-based data/AI practical work.
 
-Topics covered include:
-
- * Computer vision for wildlife monitoring
- * Acoustic monitoring (bioacoustics): AI sound detection and classification
- * Deep learning methods and their relation to wildlife data
- * Remote sensing (e.g. satellite, drone)
- * Citizen science
- * Devices for AI monitoring in the wild
- * Estimating animal populations
- * Critiques of some technologies; benefits/impacts on nature
- * Advanced topics in bioacoustics and deep learning
-
 Lecture topics:
 -----
 
@@ -48,12 +34,12 @@ Lecture topics:
 3. Seeing from above: Remote sensing
 4. Deep learning for audio
 5. Citizen science
-6. Electricity generation/grids. And: Cost-benefit & critiques -- [Lecture 6 slides 2023](slides/ai4ne_6_electricity_costbenefit.pdf)
+6. Electricity generation/grids. And: Cost-benefit & critiques -- [Lecture 6 slides 2023](slides/ai4ne_6_electricity_costbenefit.pdf) -- [Lecture 6 video 2023](https://youtu.be/CuV1CLByu0o)
 7. Devices in the wild    
    --mid-term--
 8. Tracking movement: Biologging
-9. Data mining, large-scale, data-viz
-10. Bad tech, versus nature-based solutions
+9. Bad tech, versus nature-based solutions <!-- -- [Lecture 6 slides 2023](slides/ai4ne_9_badtech.pdf) -->
+10. Data mining, large-scale, data-viz
 11. Estimating animal populations
 12. Advanced topics 1
 13. Advanced topics 2

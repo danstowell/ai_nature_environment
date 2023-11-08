@@ -84,6 +84,6 @@ I highly recommend both [Climate Change AI](https://climatechange.ai/) and [Wild
 
 Copyright:
 -----
-This material is copyright (c) Dan Stowell 2023, and is published under the [Creative Commons CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
+This material is copyright (c) Dan Stowell 2023, and is published under the [Creative Commons CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 

@@ -7,7 +7,7 @@ Course material (2023 edition)
 
 Taught in the [Department of Cognitive Science and AI](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at Tilburg University.
 
-<img src="TilbUni_H_logo_slogan_COLOR.png" style="float:right; max-width: 358px; width: 25%;"/>
+<img src="images/TilbUni_H_logo_slogan_COLOR.png" style="float:right; max-width: 358px; width: 25%;"/>
 
 Aims:
 -----
@@ -38,7 +38,7 @@ Lecture topics:
 7. Devices in the wild    
    --mid-term--
 8. Tracking movement: Biologging
-9. Bad tech, versus nature-based solutions <!-- -- [Lecture 6 slides 2023](slides/ai4ne_9_badtech.pdf) -->
+9. Bad tech, versus nature-based solutions -- [Lecture 9 slides 2023](slides/ai4ne_9_badtech.pdf) -- [Lecture 9 video 2023](https://youtu.be/3EAnz9Pk9lY)
 10. Data mining, large-scale, data-viz
 11. Estimating animal populations
 12. Advanced topics 1

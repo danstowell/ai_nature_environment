@@ -43,7 +43,7 @@ Lecture topics:
 11. Estimating animal populations
 12. Advanced topics 1
 13. Advanced topics 2
-14. Synaptic, exam, Q&A
+14. Synoptic, exam, Q&A
 
 Prerequisites:
 -----

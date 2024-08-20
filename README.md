@@ -1,7 +1,7 @@
 AI for Nature & Environment
 ===========================
 
-Course material (2023 edition)
+Course material (2024 edition)
 
 *Target level:* BSc 3rd year (BSc Cognitive Science and AI)
 
@@ -39,11 +39,14 @@ Lecture topics:
    --mid-term--
 8. Tracking movement: Biologging
 9. Bad tech, versus nature-based solutions -- [Lecture 9 slides 2023](slides/ai4ne_9_badtech.pdf) -- [Lecture 9 video 2023](https://youtu.be/3EAnz9Pk9lY)
-10. Data mining, large-scale, data-viz
-11. Estimating animal populations
 12. Advanced topics 1
 13. Advanced topics 2
 14. Synoptic, exam, Q&A
+
+<!--
+10. Data mining, large-scale, data-viz
+11. Estimating animal populations
+-->
 
 Prerequisites:
 -----
@@ -60,7 +63,7 @@ Assessment:
 
 (b) 30% individual coding project
 
-(c) 10% group "paper review" presentation
+(c) 10% mid-term "paper review", in two parts: 5% is individual paper review video; 5% is a group paper report
 
 Recommended reading:
 -----
